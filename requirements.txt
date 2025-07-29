@@ -1,0 +1,6 @@
+gradio
+openai-whisper
+transformers
+torch
+deep-translator
+pyttsx3
