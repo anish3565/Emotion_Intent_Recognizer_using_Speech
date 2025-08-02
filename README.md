@@ -1,4 +1,4 @@
-# 🎙️ Real-Time Multilingual Emotion + Intent Recognizer
+# 🎙️ Real-Time Emotion + Intent Recognizer using Speech
 
 This project detects emotions and intent from multilingual speech in real-time.
 
