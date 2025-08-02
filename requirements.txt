@@ -4,3 +4,4 @@ transformers
 torch
 deep-translator
 pyttsx3
+huggingface-hub
