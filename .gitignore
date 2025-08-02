@@ -3,3 +3,4 @@ __pycache__/
 responses/
 .gradio
 output.wav
+audio/
