@@ -1,7 +1,7 @@
 import os
 from TTS.api import TTS
 
-# Creating the audio output folder
+# Creating the audio output folder to save audios
 AUDIO_DIR = "audio"
 os.makedirs(AUDIO_DIR, exist_ok=True)
 
