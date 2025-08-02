@@ -1,6 +1,6 @@
 # 🎙️ Real-Time Emotion + Intent Recognizer using Speech
 
-This project detects emotions and intent from multilingual speech in real-time.
+This project detects emotions and intent from speech in real-time.
 
 ## Features
 - 🎤 Speech Transcription using OpenAI Whisper
