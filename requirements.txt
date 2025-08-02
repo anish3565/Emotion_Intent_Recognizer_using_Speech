@@ -3,5 +3,8 @@ openai-whisper
 transformers
 torch
 deep-translator
-pyttsx3
+# pyttsx3
 huggingface-hub
+TTS
+torch
+transformers
